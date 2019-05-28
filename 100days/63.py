@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
+#生成图片见63.png
 from matplotlib import pyplot as plt
 from datetime import datetime
 
