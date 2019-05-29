@@ -3,6 +3,7 @@
 
 import pygal_maps_world.maps
 import json
+#此处模块自己编写的，见country_codes.py
 from country_codes import get_country_code
 
 cc_populations = {}
